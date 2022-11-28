@@ -1,0 +1,1157 @@
+{
+    "Vars::Menu::CheatName": "Fedorapaste",
+    "Vars::Menu::CheatPrefix": "[FeD]",
+    "Vars::Menu::Vignette": "false",
+    "Vars::Menu::ShowDVD": "false",
+    "Vars::Menu::CloseOnUnfocus": "false",
+    "Vars::Backtrack::BtChams::Enabled": "true",
+    "Vars::Backtrack::BtChams::LastOnly": "true",
+    "Vars::Backtrack::BtChams::EnemyOnly": "false",
+    "Vars::Backtrack::BtChams::IgnoreZ": "false",
+    "Vars::Backtrack::BtChams::Material": "0",
+    "Vars::Backtrack::BtChams::BacktrackColor": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "100"
+    },
+    "Vars::CritHack::Indicators": "false",
+    "Vars::CritHack::IndicatorPos": {
+        "x": "100",
+        "y": "100",
+        "w": "80",
+        "h": "30",
+        "c": "140"
+    },
+    "Vars::Aimbot::Projectile::PredictionColor": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "255"
+    },
+    "Vars::ESP::Main::Active": "true",
+    "Vars::ESP::Main::Outlinedbar": "false",
+    "Vars::ESP::Main::EnableTeamEnemyColors": "false",
+    "Vars::ESP::Main::DistanceToAlpha": "false",
+    "Vars::ESP::Main::DormantSoundESP": "false",
+    "Vars::ESP::Main::DormantTime": "1",
+    "Vars::ESP::Main::DormantDist": "1000",
+    "Vars::ESP::Main::NetworkedDist": "2000",
+    "Vars::ESP::Players::Active": "true",
+    "Vars::ESP::Players::ShowLocal": "true",
+    "Vars::ESP::Players::IgnoreTeammates": "0",
+    "Vars::ESP::Players::IgnoreCloaked": "0",
+    "Vars::ESP::Players::Name": "false",
+    "Vars::ESP::Players::NameCustom": "false",
+    "Vars::ESP::Players::NameColor": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "255"
+    },
+    "Vars::ESP::Players::NameBox": "false",
+    "Vars::ESP::Players::Uber": "1",
+    "Vars::ESP::Players::Class": "2",
+    "Vars::ESP::Players::HealthText": "1",
+    "Vars::ESP::Players::Cond": "true",
+    "Vars::ESP::Players::HealthBar": "false",
+    "Vars::ESP::Players::HealthBarStyle": "0",
+    "Vars::ESP::Players::Box": "0",
+    "Vars::ESP::Players::GUID": "false",
+    "Vars::ESP::Players::Choked": "false",
+    "Vars::ESP::Players::Alpha": "1",
+    "Vars::ESP::Players::Lines": "false",
+    "Vars::ESP::Players::Bones": "0",
+    "Vars::ESP::Players::Dlights": "false",
+    "Vars::ESP::Players::DlightRadius": "200",
+    "Vars::ESP::Players::CheaterDetection": "false",
+    "Vars::ESP::Players::WeaponIcon": "false",
+    "Vars::ESP::Players::WeaponText": "false",
+    "Vars::ESP::Players::SniperSightlines": "false",
+    "Vars::ESP::Buildings::Active": "true",
+    "Vars::ESP::Buildings::IgnoreTeammates": "true",
+    "Vars::ESP::Buildings::Name": "false",
+    "Vars::ESP::Buildings::NameCustom": "false",
+    "Vars::ESP::Buildings::NameColor": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "255"
+    },
+    "Vars::ESP::Buildings::NameBox": "false",
+    "Vars::ESP::Buildings::Health": "true",
+    "Vars::ESP::Buildings::Owner": "true",
+    "Vars::ESP::Buildings::Level": "true",
+    "Vars::ESP::Buildings::Cond": "true",
+    "Vars::ESP::Buildings::HealthBar": "false",
+    "Vars::ESP::Buildings::Box": "0",
+    "Vars::ESP::Buildings::Alpha": "1",
+    "Vars::ESP::Buildings::Dlights": "false",
+    "Vars::ESP::Buildings::DlightRadius": "200",
+    "Vars::ESP::Buildings::TeleExitDir": "false",
+    "Vars::ESP::Buildings::TeleExitDirColor": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "255"
+    },
+    "Vars::ESP::World::Active": "true",
+    "Vars::ESP::World::HealthName": "true",
+    "Vars::ESP::World::HealthLine": "false",
+    "Vars::ESP::World::HealthBox": "0",
+    "Vars::ESP::World::AmmoName": "true",
+    "Vars::ESP::World::AmmoLine": "false",
+    "Vars::ESP::World::AmmoBox": "0",
+    "Vars::ESP::World::NPCName": "false",
+    "Vars::ESP::World::NPCLine": "false",
+    "Vars::ESP::World::NPCBox": "0",
+    "Vars::ESP::World::BombName": "false",
+    "Vars::ESP::World::BombLine": "false",
+    "Vars::ESP::World::BombBox": "0",
+    "Vars::ESP::World::Alpha": "1",
+    "Vars::Chams::Main::Active": "true",
+    "Vars::Chams::Players::Active": "false",
+    "Vars::Chams::Players::Wearables": "true",
+    "Vars::Chams::Players::Weapons": "true",
+    "Vars::Chams::Players::FadeoutTeammates": "false",
+    "Vars::Chams::Buildings::Active": "false",
+    "Vars::Chams::Buildings::Material": "3",
+    "Vars::Chams::Buildings::IgnoreZ": "false",
+    "Vars::Chams::World::Active": "false",
+    "Vars::Chams::DME::Active": "true",
+    "Vars::Chams::DME::HandsGlowOverlay": "0",
+    "Vars::Chams::DME::WeaponGlowOverlay": "0",
+    "Vars::Chams::DME::HandsRainbow": "false",
+    "Vars::Chams::DME::WeaponRainbow": "false",
+    "Vars::Chams::DME::HandsOverlayRainbow": "false",
+    "Vars::Chams::DME::WeaponOverlayRainbow": "false",
+    "Vars::Chams::DME::HandsProxySkin": "0",
+    "Vars::Chams::DME::WeaponsProxySkin": "0",
+    "Vars::Chams::DME::HandsGlowAmount": "1",
+    "Vars::Chams::DME::WeaponGlowAmount": "1",
+    "Vars::Chams::DME::WeaponOverlayPulse": "false",
+    "Vars::Chams::DME::HandsOverlayPulse": "false",
+    "Vars::Glow::Main::Active": "false",
+    "Vars::Glow::Main::Scale": "5",
+    "Vars::Glow::Main::Type": "1",
+    "Vars::Glow::Players::Active": "true",
+    "Vars::Glow::Players::ShowLocal": "true",
+    "Vars::Glow::Players::LocalRainbow": "false",
+    "Vars::Glow::Players::IgnoreTeammates": "0",
+    "Vars::Glow::Players::Wearables": "true",
+    "Vars::Glow::Players::Weapons": "true",
+    "Vars::Glow::Players::Alpha": "1",
+    "Vars::Glow::Players::Color": "0",
+    "Vars::Glow::Buildings::Active": "false",
+    "Vars::Glow::Buildings::IgnoreTeammates": "true",
+    "Vars::Glow::Buildings::Alpha": "1",
+    "Vars::Glow::Buildings::Color": "1",
+    "Vars::Glow::World::Active": "false",
+    "Vars::Glow::World::Health": "true",
+    "Vars::Glow::World::Ammo": "true",
+    "Vars::Glow::World::NPCs": "false",
+    "Vars::Glow::World::Bombs": "false",
+    "Vars::Glow::World::Projectiles": "1",
+    "Vars::Glow::World::Alpha": "1",
+    "Vars::Glow::Misc::MovementSimLine": "false",
+    "Vars::Glow::Misc::BulletTracers": "false",
+    "Vars::Glow::Misc::Sightlines": "false",
+    "Vars::Radar::Main::Active": "false",
+    "Vars::Radar::Main::BackAlpha": "128",
+    "Vars::Radar::Main::LineAlpha": "255",
+    "Vars::Radar::Main::Range": "1500",
+    "Vars::Radar::Players::Active": "false",
+    "Vars::Radar::Players::IconType": "1",
+    "Vars::Radar::Players::BackGroundType": "2",
+    "Vars::Radar::Players::Outline": "false",
+    "Vars::Radar::Players::IgnoreTeam": "2",
+    "Vars::Radar::Players::IgnoreCloaked": "0",
+    "Vars::Radar::Players::Health": "false",
+    "Vars::Radar::Players::Height": "false",
+    "Vars::Radar::Buildings::Active": "false",
+    "Vars::Radar::Buildings::Outline": "false",
+    "Vars::Radar::Buildings::IgnoreTeam": "false",
+    "Vars::Radar::Buildings::Health": "false",
+    "Vars::Radar::World::Active": "false",
+    "Vars::Radar::World::Health": "false",
+    "Vars::Radar::World::Ammo": "false",
+    "Vars::Visuals::CleanScreenshots": "false",
+    "Vars::Visuals::RemoveMOTD": "true",
+    "Vars::Visuals::RemoveDisguises": "true",
+    "Vars::Visuals::DrawOnScreenConditions": "false",
+    "Vars::Visuals::DrawOnScreenPing": "false",
+    "Vars::Visuals::RemoveTaunts": "true",
+    "Vars::Visuals::FieldOfView": "120",
+    "Vars::Visuals::AimFOVAlpha": "10",
+    "Vars::Visuals::RemoveScope": "true",
+    "Vars::Visuals::RemoveRagdolls": "true",
+    "Vars::Visuals::RemoveScreenEffects": "true",
+    "Vars::Visuals::RemoveDSP": "true",
+    "Vars::Visuals::RemoveConvarQueries": "true",
+    "Vars::Visuals::VisualOverlay": "0",
+    "Vars::Visuals::RemoveScreenOverlays": "true",
+    "Vars::Visuals::PreventForcedAngles": "true",
+    "Vars::Visuals::ScopeLines": "false",
+    "Vars::Visuals::PickupTimers": "true",
+    "Vars::Visuals::RemoveZoom": "true",
+    "Vars::Visuals::RemovePunch": "true",
+    "Vars::Visuals::CrosshairAimPos": "false",
+    "Vars::Visuals::ChatInfoText": "false",
+    "Vars::Visuals::ChatInfoChat": "false",
+    "Vars::Visuals::ChatInfoGrayScale": "true",
+    "Vars::Visuals::OutOfFOVArrowsOutline": "false",
+    "Vars::Visuals::SpectatorList": "2",
+    "Vars::Visuals::CameraMode": "0",
+    "Vars::Visuals::CameraFOV": "90",
+    "Vars::Visuals::SpyWarning": "true",
+    "Vars::Visuals::SpyWarningAnnounce": "true",
+    "Vars::Visuals::SpyWarningStyle": "0",
+    "Vars::Visuals::SpyWarningVisibleOnly": "true",
+    "Vars::Visuals::SpyWarningIgnoreFriends": "false",
+    "Vars::Visuals::Snow": "false",
+    "Vars::Visuals::ToolTips": "false",
+    "Vars::Visuals::ThirdPerson": "false",
+    "Vars::Visuals::ThirdPersonSilentAngles": "true",
+    "Vars::Visuals::ThirdPersonInstantYaw": "true",
+    "Vars::Visuals::ThirdPersonServerHitbox": "false",
+    "Vars::Visuals::ThirdpersonOffset": "false",
+    "Vars::Visuals::ThirdpersonDist": "200",
+    "Vars::Visuals::ThirdpersonRight": "0",
+    "Vars::Visuals::ThirdpersonUp": "0",
+    "Vars::Visuals::ThirdpersonCrosshair": "false",
+    "Vars::Visuals::WorldModulation": "false",
+    "Vars::Visuals::SkyModulation": "false",
+    "Vars::Visuals::PropWireframe": "false",
+    "Vars::Visuals::SkyboxChanger": "false",
+    "Vars::Visuals::BulletTracer": "false",
+    "Vars::Visuals::BulletTracerRainbow": "false",
+    "Vars::Visuals::AimbotViewmodel": "false",
+    "Vars::Visuals::ViewmodelSway": "true",
+    "Vars::Visuals::MoveSimLine": "true",
+    "Vars::Visuals::MoveSimSeperators": "false",
+    "Vars::Visuals::SeperatorLength": "12",
+    "Vars::Visuals::SeperatorSpacing": "6",
+    "Vars::Visuals::VMOffsets": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+    },
+    "Vars::Visuals::OnScreenConditions": {
+        "x": "100",
+        "y": "100",
+        "w": "80",
+        "h": "30",
+        "c": "140"
+    },
+    "Vars::Visuals::OnScreenPing": {
+        "x": "100",
+        "y": "100",
+        "w": "80",
+        "h": "30",
+        "c": "140"
+    },
+    "Vars::Visuals::VMRoll": "0",
+    "Vars::Visuals::OutOfFOVArrows": "false",
+    "Vars::Visuals::ArrowLength": "21",
+    "Vars::Visuals::ArrowAngle": "100",
+    "Vars::Visuals::MaxDist": "1000",
+    "Vars::Visuals::MinDist": "200",
+    "Vars::Visuals::FovArrowsDist": "0.150000006",
+    "Vars::Visuals::AimPosSquare": "false",
+    "Vars::Visuals::Rain": "0",
+    "Vars::Debug::DebugInfo": "false",
+    "Vars::Visuals::DoPostProcessing": "false",
+    "Vars::Visuals::EquipRegionUnlock": "false",
+    "Vars::Visuals::NoStaticPropFade": "false",
+    "Vars::Visuals::Beans::Active": "false",
+    "Vars::Visuals::Beans::Rainbow": "false",
+    "Vars::Visuals::Beans::BeamColour": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "255"
+    },
+    "Vars::Visuals::Beans::UseCustomModel": "false",
+    "Vars::Visuals::Beans::Model": "sprites\/physbeam.vmt",
+    "Vars::Visuals::Beans::Life": "2",
+    "Vars::Visuals::Beans::Width": "2",
+    "Vars::Visuals::Beans::EndWidth": "2",
+    "Vars::Visuals::Beans::FadeLength": "10",
+    "Vars::Visuals::Beans::Amplitude": "2",
+    "Vars::Visuals::Beans::Brightness": "255",
+    "Vars::Visuals::Beans::Speed": "0.200000003",
+    "Vars::Visuals::Beans::Flags": "65792",
+    "Vars::Visuals::Beans::Segments": "2",
+    "Vars::Visuals::NotificationLifetime": "0.5",
+    "Vars::Visuals::DamageLoggerText": "false",
+    "Vars::Visuals::DamageLoggerChat": "false",
+    "Vars::Visuals::DamageLoggerConsole": "false",
+    "Vars::Visuals::ParticleTracer": "4",
+    "Vars::Visuals::VisionModifier": "0",
+    "Vars::Visuals::RagdollEffects::EnemyOnly": "false",
+    "Vars::Visuals::RagdollEffects::Burning": "false",
+    "Vars::Visuals::RagdollEffects::Electrocuted": "false",
+    "Vars::Visuals::RagdollEffects::BecomeAsh": "false",
+    "Vars::Visuals::RagdollEffects::Dissolve": "false",
+    "Vars::Visuals::RagdollEffects::RagdollType": "0",
+    "Vars::Visuals::Fog::CustomFog": "false",
+    "Vars::Visuals::Fog::FogDensity": "0",
+    "Vars::Visuals::Fog::FogDensitySkybox": "0",
+    "Vars::Visuals::Fog::FogStart": "0",
+    "Vars::Visuals::Fog::FogStartSkybox": "0",
+    "Vars::Visuals::Fog::FogEnd": "0",
+    "Vars::Visuals::Fog::FogEndSkybox": "0",
+    "Vars::Visuals::Fog::FogColor": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "255"
+    },
+    "Vars::Visuals::Fog::FogColorSkybox": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "255"
+    },
+    "Vars::Menu::Colors::MenuAccent": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "255"
+    },
+    "Colors::OutlineESP": {
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "a": "255"
+    },
+    "Colors::DTBarIndicatorsCharged": {
+        "startColour": {
+            "r": "106",
+            "g": "255",
+            "b": "131",
+            "a": "180"
+        },
+        "endColour": {
+            "r": "106",
+            "g": "255",
+            "b": "250",
+            "a": "180"
+        }
+    },
+    "Colors::DTBarIndicatorsCharging": {
+        "startColour": {
+            "r": "255",
+            "g": "192",
+            "b": "81",
+            "a": "180"
+        },
+        "endColour": {
+            "r": "255",
+            "g": "134",
+            "b": "81",
+            "a": "180"
+        }
+    },
+    "Colors::ChokedBar": {
+        "startColour": {
+            "r": "47",
+            "g": "39",
+            "b": "0",
+            "a": "255"
+        },
+        "endColour": {
+            "r": "255",
+            "g": "210",
+            "b": "0",
+            "a": "255"
+        }
+    },
+    "Colors::GradientHealthBar": {
+        "startColour": {
+            "r": "255",
+            "g": "0",
+            "b": "0",
+            "a": "255"
+        },
+        "endColour": {
+            "r": "0",
+            "g": "202",
+            "b": "124",
+            "a": "255"
+        }
+    },
+    "Colors::GradientOverhealBar": {
+        "startColour": {
+            "r": "0",
+            "g": "202",
+            "b": "124",
+            "a": "255"
+        },
+        "endColour": {
+            "r": "167",
+            "g": "255",
+            "b": "237",
+            "a": "255"
+        }
+    },
+    "Colors::Cond": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "255"
+    },
+    "Colors::Target": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "255"
+    },
+    "Colors::Invuln": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "255"
+    },
+    "Colors::Cloak": {
+        "r": "165",
+        "g": "177",
+        "b": "194",
+        "a": "255"
+    },
+    "Colors::Friend": {
+        "r": "32",
+        "g": "191",
+        "b": "107",
+        "a": "255"
+    },
+    "Colors::Local": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "255"
+    },
+    "Colors::Ignored": {
+        "r": "32",
+        "g": "191",
+        "b": "107",
+        "a": "255"
+    },
+    "Colors::Overheal": {
+        "r": "84",
+        "g": "160",
+        "b": "255",
+        "a": "255"
+    },
+    "Colors::Health": {
+        "r": "0",
+        "g": "230",
+        "b": "64",
+        "a": "255"
+    },
+    "Colors::Ammo": {
+        "r": "191",
+        "g": "191",
+        "b": "191",
+        "a": "255"
+    },
+    "Colors::UberColor": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "255"
+    },
+    "Colors::Enemy": {
+        "r": "255",
+        "g": "100",
+        "b": "87",
+        "a": "255"
+    },
+    "Colors::rTeam": {
+        "r": "30",
+        "g": "144",
+        "b": "255",
+        "a": "255"
+    },
+    "Colors::TeamRed": {
+        "r": "255",
+        "g": "100",
+        "b": "87",
+        "a": "255"
+    },
+    "Colors::TeamBlu": {
+        "r": "30",
+        "g": "144",
+        "b": "255",
+        "a": "255"
+    },
+    "Colors::Hands": {
+        "r": "30",
+        "g": "144",
+        "b": "255",
+        "a": "255"
+    },
+    "Colors::Weapon": {
+        "r": "30",
+        "g": "144",
+        "b": "255",
+        "a": "255"
+    },
+    "Colors::HandsOverlay": {
+        "r": "255",
+        "g": "127",
+        "b": "0",
+        "a": "255"
+    },
+    "Colors::WeaponOverlay": {
+        "r": "255",
+        "g": "127",
+        "b": "0",
+        "a": "255"
+    },
+    "Colors::WorldModulation": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "255"
+    },
+    "Colors::SkyModulation": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "255"
+    },
+    "Colors::StaticPropModulation": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "255"
+    },
+    "Colors::FOVCircle": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "10"
+    },
+    "Colors::Bones": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "255"
+    },
+    "Colors::BulletTracer": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "255"
+    },
+    "Colors::FresnelBase": {
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "a": "255"
+    },
+    "Colors::FresnelBaseHands": {
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "a": "255"
+    },
+    "Colors::FresnelBaseWeps": {
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "a": "255"
+    },
+    "Colors::FresnelTop": {
+        "r": "0",
+        "g": "255",
+        "b": "0",
+        "a": "255"
+    },
+    "Colors::AimSquareCol": {
+        "r": "0",
+        "g": "255",
+        "b": "0",
+        "a": "255"
+    },
+    "Colors::DtOutline": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "180"
+    },
+    "Colors::NotifBG": {
+        "r": "30",
+        "g": "30",
+        "b": "30",
+        "a": "255"
+    },
+    "Colors::NotifOutline": {
+        "r": "255",
+        "g": "101",
+        "b": "101",
+        "a": "255"
+    },
+    "Colors::NotifText": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "255"
+    },
+    "Colors::WeaponIcon": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "255"
+    },
+    "Colors::NoscopeLines1": {
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "a": "255"
+    },
+    "Colors::NoscopeLines2": {
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "a": "100"
+    },
+    "Colors::bonecolor": {
+        "r": "231",
+        "g": "95",
+        "b": "255",
+        "a": "10"
+    },
+    "Colors::HitboxFace": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "25"
+    },
+    "Colors::HitboxEdge": {
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "a": "175"
+    },
+    "Vars::Skybox::SkyboxNum": "0",
+    "Vars::Skybox::SkyboxName": "mr_04",
+    "Vars::Chams::Players::Local": {
+        "showObstructed": "false",
+        "drawMaterial": "0",
+        "overlayType": "0",
+        "chamsActive": "true",
+        "rainbow": "false",
+        "overlayRainbow": "false",
+        "overlayPulse": "false",
+        "overlayIntensity": "0.100000001",
+        "fresnelBase": {
+            "r": "0",
+            "g": "0",
+            "b": "0",
+            "a": "255"
+        },
+        "colour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "overlayColour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "customMaterial": "None"
+    },
+    "Vars::Chams::Players::FakeAng": {
+        "showObstructed": "false",
+        "drawMaterial": "0",
+        "overlayType": "2",
+        "chamsActive": "true",
+        "rainbow": "false",
+        "overlayRainbow": "false",
+        "overlayPulse": "false",
+        "overlayIntensity": "0.100000001",
+        "fresnelBase": {
+            "r": "0",
+            "g": "0",
+            "b": "0",
+            "a": "255"
+        },
+        "colour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "0"
+        },
+        "overlayColour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "customMaterial": "None"
+    },
+    "Vars::Chams::Players::Enemy": {
+        "showObstructed": "false",
+        "drawMaterial": "0",
+        "overlayType": "0",
+        "chamsActive": "true",
+        "rainbow": "false",
+        "overlayRainbow": "false",
+        "overlayPulse": "false",
+        "overlayIntensity": "0.100000001",
+        "fresnelBase": {
+            "r": "0",
+            "g": "0",
+            "b": "0",
+            "a": "255"
+        },
+        "colour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "overlayColour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "customMaterial": "None"
+    },
+    "Vars::Chams::Players::Team": {
+        "showObstructed": "false",
+        "drawMaterial": "0",
+        "overlayType": "0",
+        "chamsActive": "true",
+        "rainbow": "false",
+        "overlayRainbow": "false",
+        "overlayPulse": "false",
+        "overlayIntensity": "0.100000001",
+        "fresnelBase": {
+            "r": "0",
+            "g": "0",
+            "b": "0",
+            "a": "255"
+        },
+        "colour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "overlayColour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "customMaterial": "None"
+    },
+    "Vars::Chams::Players::Friend": {
+        "showObstructed": "false",
+        "drawMaterial": "0",
+        "overlayType": "0",
+        "chamsActive": "true",
+        "rainbow": "false",
+        "overlayRainbow": "false",
+        "overlayPulse": "false",
+        "overlayIntensity": "0.100000001",
+        "fresnelBase": {
+            "r": "0",
+            "g": "0",
+            "b": "0",
+            "a": "255"
+        },
+        "colour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "overlayColour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "customMaterial": "None"
+    },
+    "Vars::Chams::Players::Target": {
+        "showObstructed": "false",
+        "drawMaterial": "0",
+        "overlayType": "0",
+        "chamsActive": "true",
+        "rainbow": "false",
+        "overlayRainbow": "false",
+        "overlayPulse": "false",
+        "overlayIntensity": "0.100000001",
+        "fresnelBase": {
+            "r": "0",
+            "g": "0",
+            "b": "0",
+            "a": "255"
+        },
+        "colour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "overlayColour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "customMaterial": "None"
+    },
+    "Vars::Chams::Players::Ragdoll": {
+        "showObstructed": "false",
+        "drawMaterial": "0",
+        "overlayType": "0",
+        "chamsActive": "true",
+        "rainbow": "false",
+        "overlayRainbow": "false",
+        "overlayPulse": "false",
+        "overlayIntensity": "0.100000001",
+        "fresnelBase": {
+            "r": "0",
+            "g": "0",
+            "b": "0",
+            "a": "255"
+        },
+        "colour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "0"
+        },
+        "overlayColour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "customMaterial": "None"
+    },
+    "Vars::Chams::DME::Hands": {
+        "showObstructed": "true",
+        "drawMaterial": "0",
+        "overlayType": "1",
+        "chamsActive": "true",
+        "rainbow": "false",
+        "overlayRainbow": "false",
+        "overlayPulse": "false",
+        "overlayIntensity": "0.800000012",
+        "fresnelBase": {
+            "r": "0",
+            "g": "0",
+            "b": "0",
+            "a": "255"
+        },
+        "colour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "overlayColour": {
+            "r": "0",
+            "g": "155",
+            "b": "255",
+            "a": "255"
+        },
+        "customMaterial": "None"
+    },
+    "Vars::Chams::DME::Weapon": {
+        "showObstructed": "true",
+        "drawMaterial": "0",
+        "overlayType": "0",
+        "chamsActive": "true",
+        "rainbow": "false",
+        "overlayRainbow": "false",
+        "overlayPulse": "false",
+        "overlayIntensity": "0.100000001",
+        "fresnelBase": {
+            "r": "0",
+            "g": "0",
+            "b": "0",
+            "a": "255"
+        },
+        "colour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "overlayColour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "customMaterial": "None"
+    },
+    "Vars::Chams::Buildings::Local": {
+        "showObstructed": "false",
+        "drawMaterial": "0",
+        "overlayType": "0",
+        "chamsActive": "true",
+        "rainbow": "false",
+        "overlayRainbow": "false",
+        "overlayPulse": "false",
+        "overlayIntensity": "0.100000001",
+        "fresnelBase": {
+            "r": "0",
+            "g": "0",
+            "b": "0",
+            "a": "255"
+        },
+        "colour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "overlayColour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "customMaterial": "None"
+    },
+    "Vars::Chams::Buildings::Enemy": {
+        "showObstructed": "false",
+        "drawMaterial": "0",
+        "overlayType": "0",
+        "chamsActive": "true",
+        "rainbow": "false",
+        "overlayRainbow": "false",
+        "overlayPulse": "false",
+        "overlayIntensity": "0.100000001",
+        "fresnelBase": {
+            "r": "0",
+            "g": "0",
+            "b": "0",
+            "a": "255"
+        },
+        "colour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "overlayColour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "customMaterial": "None"
+    },
+    "Vars::Chams::Buildings::Team": {
+        "showObstructed": "false",
+        "drawMaterial": "0",
+        "overlayType": "0",
+        "chamsActive": "true",
+        "rainbow": "false",
+        "overlayRainbow": "false",
+        "overlayPulse": "false",
+        "overlayIntensity": "0.100000001",
+        "fresnelBase": {
+            "r": "0",
+            "g": "0",
+            "b": "0",
+            "a": "255"
+        },
+        "colour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "overlayColour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "customMaterial": "None"
+    },
+    "Vars::Chams::Buildings::Friend": {
+        "showObstructed": "false",
+        "drawMaterial": "0",
+        "overlayType": "0",
+        "chamsActive": "true",
+        "rainbow": "false",
+        "overlayRainbow": "false",
+        "overlayPulse": "false",
+        "overlayIntensity": "0.100000001",
+        "fresnelBase": {
+            "r": "0",
+            "g": "0",
+            "b": "0",
+            "a": "255"
+        },
+        "colour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "overlayColour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "customMaterial": "None"
+    },
+    "Vars::Chams::Buildings::Target": {
+        "showObstructed": "false",
+        "drawMaterial": "0",
+        "overlayType": "0",
+        "chamsActive": "true",
+        "rainbow": "false",
+        "overlayRainbow": "false",
+        "overlayPulse": "false",
+        "overlayIntensity": "0.100000001",
+        "fresnelBase": {
+            "r": "0",
+            "g": "0",
+            "b": "0",
+            "a": "255"
+        },
+        "colour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "overlayColour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "customMaterial": "None"
+    },
+    "Vars::Chams::World::Health": {
+        "showObstructed": "false",
+        "drawMaterial": "0",
+        "overlayType": "0",
+        "chamsActive": "true",
+        "rainbow": "false",
+        "overlayRainbow": "false",
+        "overlayPulse": "false",
+        "overlayIntensity": "0.100000001",
+        "fresnelBase": {
+            "r": "0",
+            "g": "0",
+            "b": "0",
+            "a": "255"
+        },
+        "colour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "overlayColour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "customMaterial": "None"
+    },
+    "Vars::Chams::World::Ammo": {
+        "showObstructed": "false",
+        "drawMaterial": "0",
+        "overlayType": "0",
+        "chamsActive": "true",
+        "rainbow": "false",
+        "overlayRainbow": "false",
+        "overlayPulse": "false",
+        "overlayIntensity": "0.100000001",
+        "fresnelBase": {
+            "r": "0",
+            "g": "0",
+            "b": "0",
+            "a": "255"
+        },
+        "colour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "overlayColour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "customMaterial": "None"
+    },
+    "Vars::Chams::World::Projectiles": {
+        "showObstructed": "false",
+        "drawMaterial": "0",
+        "overlayType": "0",
+        "chamsActive": "true",
+        "rainbow": "false",
+        "overlayRainbow": "false",
+        "overlayPulse": "false",
+        "overlayIntensity": "0.100000001",
+        "fresnelBase": {
+            "r": "0",
+            "g": "0",
+            "b": "0",
+            "a": "255"
+        },
+        "colour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "overlayColour": {
+            "r": "255",
+            "g": "255",
+            "b": "255",
+            "a": "255"
+        },
+        "customMaterial": "None"
+    },
+    "Vars::Fonts::FONT_ESP::szName": "Verdana",
+    "Vars::Fonts::FONT_ESP::nTall": "12",
+    "Vars::Fonts::FONT_ESP::nWeight": "0",
+    "Vars::Fonts::FONT_ESP::nFlags": "512",
+    "Vars::Fonts::FONT_ESP_NAME::szName": "Verdana",
+    "Vars::Fonts::FONT_ESP_NAME::nTall": "12",
+    "Vars::Fonts::FONT_ESP_NAME::nWeight": "0",
+    "Vars::Fonts::FONT_ESP_NAME::nFlags": "512",
+    "Vars::Fonts::FONT_ESP_COND::szName": "Verdana",
+    "Vars::Fonts::FONT_ESP_COND::nTall": "12",
+    "Vars::Fonts::FONT_ESP_COND::nWeight": "0",
+    "Vars::Fonts::FONT_ESP_COND::nFlags": "512",
+    "Vars::Fonts::FONT_ESP_PICKUPS::szName": "Verdana",
+    "Vars::Fonts::FONT_ESP_PICKUPS::nTall": "12",
+    "Vars::Fonts::FONT_ESP_PICKUPS::nWeight": "0",
+    "Vars::Fonts::FONT_ESP_PICKUPS::nFlags": "512",
+    "Vars::Fonts::FONT_MENU::szName": "Verdana",
+    "Vars::Fonts::FONT_MENU::nTall": "12",
+    "Vars::Fonts::FONT_MENU::nWeight": "0",
+    "Vars::Fonts::FONT_MENU::nFlags": "512",
+    "Vars::Fonts::FONT_INDICATORS::szName": "Verdana",
+    "Vars::Fonts::FONT_INDICATORS::nTall": "12",
+    "Vars::Fonts::FONT_INDICATORS::nWeight": "0",
+    "Vars::Fonts::FONT_INDICATORS::nFlags": "512"
+}
